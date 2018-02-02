@@ -1,0 +1,20 @@
+Question 1: Do you prefer to watch baseball or football ?
+
+Options: A.  Baseball    B. Football  C. Neither
+***
+Question 2: Do you like Chicago or New York ?
+
+Options: A. Chicago      B. New York  C. Neither
+***
+Question 3:  Do you prefer a Ford or a Ferrari car ?
+
+Options: A. Ford         B. Ferrari   C. Neither
+***
+Question 4: Do you prefer cat or dog?
+
+Options  A. Cat          B. Dog       C. Neither
+***
+Question 5: Would you endorse Donald Trump?
+
+Options  A. Yes           B. No       C. Neutral
+***
