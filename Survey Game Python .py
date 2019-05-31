@@ -1,7 +1,5 @@
-## Lab C - Mai Do.PY
+##  Mai Do.PY
 ## Mai Nhu Do  mdo@temple.edu 
-## 12/05/17
-## Lab C CIS1051 Fall 2017
 
 ## Survey Game in which you answer 5 questions and we will show you your favorite artist!
 
