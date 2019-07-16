@@ -1,5 +1,5 @@
 # Survey-Akinator-Style-Python
-Answer 5 questions and I will tell you your favorite artists! 
+My orgiinal code. Answer 5 questions and I will tell you your favorite artists! 
 HOW TO USE THIS CODE:
 
 1. Open a PYTHON Terminal ( I used IDLE Python GUI 3.5 ) 
